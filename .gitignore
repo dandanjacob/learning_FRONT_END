@@ -1,0 +1,8 @@
+# Ignorar arquivo .env
+.env
+
+# Ignorar diretório __pycache__
+__pycache__/
+
+# Ignorar arquivo ou diretório original_chat
+original_chat
